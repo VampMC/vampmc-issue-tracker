@@ -24,4 +24,4 @@ Detail what steps are needed in order to reproduce the issue.
 What are the expected results?
 
 **Actual Results:**
-What are the actual result
+What is the actual (malformed / issue born) result
