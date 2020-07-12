@@ -1,15 +1,15 @@
-# vampmc-issue-tracker
+# VampMC Issue Tracker
 VampMC's main goal is to provide a fully functional, elite Minecraft server for players of all kinds to call home. We have highly advanced and developed features.
 
 All development is done by the members you can see on our page. No development is rushed, and it is overlooked to make sure it is done properly and thoroughly. We push regular updates introducing new features, bug fixes and balance changes regularly.
 
 VampMC's codebase is written in Java and Kotlin.
 
-# issues
+# Issues
 
 Any and all issues you may run into on VampMC we request you properly reported at the "Issues" tab at the index of this GitHub repository. Make sure to follow the template followign to ensure we resolve your issue fast & efficiently.
 
-# template
+# Template
 
 **Reporter:** 
 Who is reporting this? Please include discord name and your minecraft name
